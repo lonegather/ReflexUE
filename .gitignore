@@ -9,6 +9,18 @@
 *.user
 *.userosscache
 *.sln.docstates
+Binaries/
+Config/
+Content/
+DerivedDataCache/
+enc_temp_folder/
+Intermediate/
+Saved/
+Source/
+/*.png
+/*.sln
+/*.uproject
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
